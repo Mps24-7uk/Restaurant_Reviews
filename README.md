@@ -25,3 +25,13 @@ To run this notebook interactively:
 
 # Goal for this Notebook:
 Show a simple example of Text analysis of the Retra. Review in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
+
+### This shows following
+1. Importing the libraries
+2. Importing the dataset
+3. Cleaning the texts
+4. Creating the Bag of Words model
+5. Splitting the dataset into the Training set and Test set
+6. Fitting Naive Bayes to the Training set
+7. Predicting the Test set results
+8. Making the Confusion Matrix
